@@ -32,6 +32,10 @@ public class Cmd {
         int i = 10;
         float f = 1.2f;
         
+        Integer i2 = 33;
+        Float f2 = 23.5f;
+        
+       
         
        
         
